@@ -1,0 +1,6 @@
+{
+    "Preferirias tener un auto o una moto?": ["Tener un auto", "Tener una moto"], 
+    "Ser inmortal o ser millonario?": ["Ser inmortal", "Ser millonario"], 
+    "Que fue primero el huevo o la gallina?": ["El huevo", "La gallina"], 
+    "Codear en Python o en Java?": ["En Python", "En Java"]
+}
